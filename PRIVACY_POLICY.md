@@ -1,6 +1,4 @@
 
-Create a privacy policy for a bubble block game for play store on GitHub it only require internet for admob nothing else
-
 Privacy Policy for Bubble Block Game
 Last updated: May 14, 2026
 
@@ -66,4 +64,4 @@ Changes to This Privacy Policy
 This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated revision date.
 
 Contact Us
-If you have any questions or suggestions about this Privacy Policy, you can contact us through your GitHub profile or app store listing contact information.
+If you have any questions or suggestions about this Privacy Policy, you can contact us through your GitHub profile or Play store listing contact information.
