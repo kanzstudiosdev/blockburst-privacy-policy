@@ -1,4 +1,9 @@
+---
+layout: default
+title: Sample
+---
 
+# Hello
 Privacy Policy for Bubble Block Game
 Last updated: May 14, 2026
 
